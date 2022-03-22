@@ -78,7 +78,7 @@ export default function Burn(props: any) {
               runContractFunction();
             }}
           >
-            Change ownership
+            Burn tokens
           </Button>
         </Box>
       </Card>
